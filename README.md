@@ -3,3 +3,5 @@ A Trello KANBAN Board of different stages with stick figures to highlight the us
 
 This list is public and free to use.  Just copy to your own area and your set to go. 
 Remember to give a shout-out to the Owner.  
+
+THE LINK IS:  https://trello.com/b/Elu8h9dj/template-1-project
